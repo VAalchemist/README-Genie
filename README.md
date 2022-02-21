@@ -1,4 +1,4 @@
-# README-Genie 🧞 Professional README Generator!
+# README-Genie 🧞 Professional Markdown Generator!
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
@@ -12,3 +12,6 @@
 ## Links
 
 Walkthrough for functionality [here](https://markdownlivepreview.com/).
+
+
+Deployed site [here](https://vaalchemist.github.io/README-Genie/).
