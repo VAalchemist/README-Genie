@@ -7,11 +7,11 @@
 
 ## Preview
 
-![This is a alt text.](/image/sample.png "This is a preview image.")
+![Sneak peek. Under construction!](https://raw.githubusercontent.com/VAalchemist/KLEC-search-inc/main/assets/images/construction2.gif)
 
 ## Links
 
-Walkthrough for functionality [here](https://markdownlivepreview.com/).
+Walkthrough for functionality. Under construction! [here](https://markdownlivepreview.com/).
 
 
-Deployed site [here](https://vaalchemist.github.io/README-Genie/).
+Deployed site. Under construction! [here](https://vaalchemist.github.io/README-Genie/).
