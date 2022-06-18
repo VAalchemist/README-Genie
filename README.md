@@ -16,10 +16,10 @@
   * A  command-line application that dynamically generates a professional README.md file from a user's input
 
 # Photos
-![demo photo](imgs\snap1.PNG)
+![demo photo](https://raw.githubusercontent.com/VAalchemist/README-Genie/main/imgs/snap1.PNG)
 
 # Video Walkthrough
-![demo walkthrough](imgs\snap1.PNG)
+![demo walkthrough](imgs\readmewalkthrough.gif)
 Walkthrough for functionality.[here](https://drive.google.com/file/d/1nN3LObYTxitI6_UltchezGRaDjhB2PRB/view).
 
 # Installation
