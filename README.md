@@ -1,17 +1,33 @@
 # README-Genie 🧞 Professional Markdown Generator!
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
+![](https://img.shields.io/badge/Javascript-yellow.svg)
 
 
+# Table of Contents
+* [Description](#description)
+* [Photos](#photos)
+* [Video Walkthrough](#video-walkthrough)
+* [Installation](#installation)
+* [Contact](#contact)
 
 
-## Preview
+# Description
+  * A  command-line application that dynamically generates a professional README.md file from a user's input
 
-![Sneak peek. Under construction!](https://raw.githubusercontent.com/VAalchemist/KLEC-search-inc/main/assets/images/construction2.gif)
+# Photos
+![demo photo](imgs\snap1.PNG)
 
-## Links
+# Video Walkthrough
+![demo walkthrough](imgs\snap1.PNG)
+Walkthrough for functionality.[here](https://drive.google.com/file/d/1nN3LObYTxitI6_UltchezGRaDjhB2PRB/view).
 
-Walkthrough for functionality. Under construction! [here](https://markdownlivepreview.com/).
+# Installation
 
+* Download or clone repository
+* Use a text editor to view all coding, Visual Studio Coding is recommended.
 
-Deployed site. Under construction! [here](https://vaalchemist.github.io/README-Genie/).
+ 
+# Contact
+<a href="https://github.com/VAalchemist">Github: VAalchemist</a><br>
+

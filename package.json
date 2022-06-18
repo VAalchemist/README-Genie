@@ -1,0 +1,23 @@
+{
+  "name": "readme-genie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAalchemist/README-Genie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VAalchemist/README-Genie/issues"
+  },
+  "homepage": "https://github.com/VAalchemist/README-Genie#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
